@@ -1,0 +1,26 @@
+Joshua Thibado
+CSCI 203
+Program 5
+12/01/2015
+
+
+
+Enter a command. Commands are as follows: 
+i - This commands Run the InsertSort
+h - This commands Run the HeapSort
+a - This commands Run the Both of the Sorts
+q - This commands says quits the program
+
+HeapSort: 
+Sort Type: HeapSort()
+Number Sorted : 1000000
+End Time      : 1452416814
+Start Time    : 1452416813
+Elapsed Time  : 0 Minutes, 1 Seconds
+
+Enter a command. Commands are as follows: 
+i - This commands Run the InsertSort
+h - This commands Run the HeapSort
+a - This commands Run the Both of the Sorts
+q - This commands says quits the program
+
